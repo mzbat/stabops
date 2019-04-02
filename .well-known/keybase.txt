@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/mzbat
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://stabops.com
+  * I am mzbat (https://keybase.io/mzbat) on keybase.
+  * I have a public key ASAiOVHy-xciug9Zknc3zrtoYJ2eYXsO1xGhB8aNxw13ZAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01205afc39894400e91955d4872a699a81f0ecdfaa6f61ab8b64c572c6ba9773c3120a",
+      "host": "keybase.io",
+      "kid": "0120223951f2fb1722ba0f59927737cebb68609d9e617b0ed711a107c68dc70d77640a",
+      "uid": "f42cf07e6634e811bdd777f9113b6200",
+      "username": "mzbat"
+    },
+    "merkle_root": {
+      "ctime": 1554166802,
+      "hash": "5f34d0f5f9b15ffa5fd450e9a603a0560c920abce7973b88d9778f4ba5b9f0927cb80d62fcd5d502eaf1c04dff24935dd3c39028543d3cae2fd600c06bf1ba60",
+      "hash_meta": "4219ee276f735db2a70963442fd88ba4ff3f0100969d21eb61e1f83b144ea308",
+      "seqno": 5076157
+    },
+    "service": {
+      "entropy": "oUkRAxC3jKueLuUIj6YBXf1Y",
+      "hostname": "stabops.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "3.1.2"
+  },
+  "ctime": 1554166825,
+  "expire_in": 504576000,
+  "prev": "fef9c8d0a653d69dd4f7e8c50a1e85a0f0dffd8f9e7402c2e7dd59f6bcdf1720",
+  "seqno": 32,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgIjlR8vsXIroPWZJ3N867aGCdnmF7DtcRoQfGjccNd2QKp3BheWxvYWTESpcCIMQg/vnI0KZT1p3U9+jFCh6FoPDf/Y+edALC591Z9rzfFyDEID/5KtH06pAzukQv1+9CNTLwlyOBz7uQRNabR06Ya0+cAgHCo3NpZ8RAFZs1hrnthRFXWB4hz9+vSTNQFvaRd1tQbg3Dqx7uUh1AxghJ3MJjxTpboJQxNNkFTFequtOblrT6g0dd0NmQBKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIBWTHeLxsJWSpxyKmvt6H7M1NJqbQ8xGJnMEaqNbp5Tjo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/mzbat
+
+==================================================================
